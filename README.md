@@ -64,6 +64,7 @@ User authentication mechanisms are essential to ensure secure and authorized acc
 4.	Persistence:
 •	Some chat applications implement message persistence, allowing users to retrieve past messages. This may involve using databases to store and retrieve chat history.
 
+
 5.	Notification Systems:
 •	Implementing real-time notifications to inform users of new messages, user presence changes, or other relevant events.
 
